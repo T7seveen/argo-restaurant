@@ -5,7 +5,7 @@
 export const site = {
   name: "Арго",
   tagline: "грузинский ресторан · Бугульма",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://argo-bugulma.vercel.app",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://argo-site-phi.vercel.app",
   phone: "+7 (85594) [телефон]",
   phoneHref: "tel:+785594",
   address: "г. Бугульма, [улица, дом]",
